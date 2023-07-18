@@ -199,6 +199,20 @@ margin: 10px;
 .sponser-img-container img{
   width: 165px;
 }
+.footer-section{
+height: 100px;
+border-radius: 8px;
+background: #FFF4E7;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+.footer-title{
+  color:  #424242;
+
+
+}
 
 /* responsive style */
 /* mobile device */
@@ -220,7 +234,7 @@ margin: 10px;
   }
   .ten-year-bridge{
     position: static;
-    width: 300px;
+    max-width: 300px;
 
   }
     .teams-img-container{
